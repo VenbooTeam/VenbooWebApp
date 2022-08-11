@@ -38,3 +38,6 @@ This software is required before installing the app:
 
 ## Installation
 
+- Start by forking the repo
+- Copy the SSH key to the clipboard
+- Open up your terminal and type in... `git clone {paste SSH key here}
