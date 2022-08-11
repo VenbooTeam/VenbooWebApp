@@ -31,3 +31,10 @@ The Venboo Webapp is a centralized hub where host users can create and manage th
 
 This software is required before installing the app:
 - [Node.js](https://nodejs.org/en/)
+- [PostrgeSQL](https://www.postgresql.org/)
+- [Nodemon](https://nodemon.io/)
+
+
+
+## Installation
+
