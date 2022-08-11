@@ -63,5 +63,9 @@ If not, you can navigate to http://localhost:3000/#/
 
 Video walkthrough of app: https://www.youtube.com/watch?v=j9FIXXvbMaI 
 
+
 ## Deployment
 
+- The app has been deployed via Heroku
+- Heroku login info is located in the hand off document
+- If you need to make updates to the source code and have to push up to Heroku
