@@ -41,3 +41,7 @@ This software is required before installing the app:
 - Start by forking the repo
 - Copy the SSH key to the clipboard
 - Open up your terminal and type in... `git clone {paste SSH key here}`
+- Navigate into the folder containing the cloned repo in your terminal
+- Open the repo folder inside your code editor
+- In the editor terminal, run `npm install`, this will install all of the app's dependencies
+- 
