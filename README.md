@@ -25,3 +25,9 @@ The Venboo Webapp is a centralized hub where host users can create and manage th
 <a href="https://redux.js.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="40px" width="40px" /></a>
 <a href="https://material-ui.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" height="40px" width="40px" /></a>
 <a href="https://nodejs.org/en/"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" height="40px" width="40px" /></a>
+
+
+## Prerequisites
+
+This software is required before installing the Webapp:
+- [Node.js](https://nodejs.org/en/)
