@@ -8,6 +8,7 @@
 - [Prerequisites](#prerequisite)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Deployment](#deployment)
 
 
 ## Description
@@ -35,7 +36,6 @@ This software is required before installing the app:
 - [Nodemon](https://nodemon.io/)
 
 
-
 ## Installation
 
 - Start by forking the repo
@@ -44,4 +44,18 @@ This software is required before installing the app:
 - Navigate into the folder containing the cloned repo in your terminal
 - Open the repo folder inside your code editor
 - In the editor terminal, run `npm install`, this will install all of the app's dependencies
-- 
+- Create a database called `venboo`, in PostgreSQL
+- Copy the database.sql files and run them in the PostgreSQL termianl to create all the tables needed to run the app.
+- The startingData.sql files will create the initial admin user.
+- Inside your code editor, run `npm run server` in the terminal
+- Inside a second terminal, run `npm run client`
+
+
+## Usage
+
+When everything is installed correctly, the app should open up in your default browser
+If not, you can navigate to http://localhost:3000/#/.
+
+
+## Deployment
+
