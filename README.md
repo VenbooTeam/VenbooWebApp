@@ -1,11 +1,10 @@
 # VenbooWebApp
 
-![image](https://user-images.githubusercontent.com/111070987/184179968-241b557f-6e87-474c-a490-226c4852b9db.png)
-
 
 ## Table of Contents
 
 - [Description](#description)
+- [Screen Shot](#screen-shot)
 - [Built With](#built-with)
 - [Prerequisites](#prerequisite)
 - [Installation](#installation)
@@ -16,6 +15,10 @@
 ## Description
 
 The Venboo Webapp is a centralized hub where host users can create and manage their events, vendor users can browse events and apply to booths, and admins can manage their business through a variety of built in tools.
+
+
+## Screen Shot
+![image](https://user-images.githubusercontent.com/111070987/184179968-241b557f-6e87-474c-a490-226c4852b9db.png)
 
 
 ## Built With
