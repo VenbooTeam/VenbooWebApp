@@ -144,3 +144,10 @@ CREATE TABLE "event_tags" (
 	"tag_id" INTEGER REFERENCES "tags" ON DELETE CASCADE,
 	UNIQUE ("event_id", "tag_id")
 );
+
+-- Create Admin User
+INSERT INTO "user"
+    ("email", "password", "type", "first_name", "last_name", "title", "business_name", "description", "phone")
+VALUES
+    -- Admin
+    ('admin@myvenboo.com', '$2a$10$IXUlHXfyg4dKJ8z6uIOn9.6CCKx/O/YzOAgDSlptVkxeTtwb1jz0u', 'admin', 'Juaquan', 'Herron', 'CEO', 'Admin', 'Admin','123-123-1234')
