@@ -60,9 +60,6 @@ VALUES
 INSERT INTO "user"
     ("email", "password", "type", "first_name", "last_name", "title", "business_name", "description","address_id", "phone","main_url", "facebook_url", "etsy_url", "linkedin_url", "instagram_url", "pinterest_url")
 VALUES
-    -- Admin
-    ('admin1@example.com', '$2a$10$1luP05zl8k51vCWkTaSu9.O8jwisNGB3dhzwoALeJynhbyNTj0QKe', 'admin', 'Nimo', 'Abdi', 'CEO', 'Admin', 'Admin', '1', '123-123-1234', 'https://github.com/PrimeAcademy', 'https://www.facebook.com/', 'https://www.etsy.com/', 'https://www.linkedin.com', 'https://www.instagram.com', 'https://www.pintrest.com'),
-
     -- Vendors (friends)
     ('vendor1@example.com', '$2a$10$1luP05zl8k51vCWkTaSu9.O8jwisNGB3dhzwoALeJynhbyNTj0QKe', 'vendor', 'Colin', 'Oraskovich', 'CEO', 'Colin Comics', 'We source the highest graded comic books ranging from the Golden Age to the current day issues. We also have tons of officially licensed merch! Check us out at our social media links!', '6', '123-123-1234', '', '', 'https://www.etsy.com/', '','',''),
     ('vendor2@example.com', '$2a$10$1luP05zl8k51vCWkTaSu9.O8jwisNGB3dhzwoALeJynhbyNTj0QKe', 'vendor', 'Cakes', 'Maras', 'CEO', 'TV Shows Store', 'We sell tv shows', '3', '123-123-1234', 'https://github.com/PrimeAcademy', 'https://www.facebook.com/', 'https://www.etsy.com/', '','',''),
