@@ -29,5 +29,5 @@ The Venboo Webapp is a centralized hub where host users can create and manage th
 
 ## Prerequisites
 
-This software is required before installing the Webapp:
+This software is required before installing the app:
 - [Node.js](https://nodejs.org/en/)
