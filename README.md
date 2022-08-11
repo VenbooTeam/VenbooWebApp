@@ -54,8 +54,9 @@ This software is required before installing the app:
 ## Usage
 
 When everything is installed correctly, the app should open up in your default browser
-If not, you can navigate to http://localhost:3000/#/.
+If not, you can navigate to http://localhost:3000/#/
 
+Video walkthrough of app: https://www.youtube.com/watch?v=j9FIXXvbMaI 
 
 ## Deployment
 
