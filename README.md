@@ -12,7 +12,7 @@
 
 ## Description
 
-The Venboo Webapp is a centralized hub where Hosts can create and manage thier events, Vendors can browse events and apply to booths, and admins can manage their business through a variety of built in tools.
+The Venboo Webapp is a centralized hub where host users can create and manage their events, vendor users can browse events and apply to booths, and admins can manage their business through a variety of built in tools.
 
 
 ## Built With
